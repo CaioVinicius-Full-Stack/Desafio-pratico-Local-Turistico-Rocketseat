@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Nesse projeto você vai desenvolver uma página simples de receita.
 
-- [Acesse o projeto finalizado, online](https://caio-vinicius-almeida.github.io/Desafio-pratico-Local-Turistico/)
+- [Acesse o projeto finalizado, online](https://caiovinicius-full-stack.github.io/Desafio-pratico-Local-Turistico-Rocketseat/)
 
 ## 🔖 Layout
 
